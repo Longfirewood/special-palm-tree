@@ -1,0 +1,16 @@
+
+nativeApp/node_modules/
+backend/node_modules/
+nativeApp/.expo/
+nativeApp/dist/
+nativeApp/npm-debug.*
+nativeApp/*.jks
+nativeApp/*.p8
+nativeApp/*.p12
+nativeApp/*.key
+nativeApp/*.mobileprovision
+nativeApp/*.orig.*
+nativeApp/web-build/
+
+# macOS
+.DS_Store
